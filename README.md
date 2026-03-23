@@ -20,7 +20,7 @@ AutoValue Pro is a Prescriptive Analytics and Decision Support System (DSS) desi
 ## Repository Contents
 * `AutoValue_Pro_Final.ipynb`: The master PySpark/Python codebase.
 * `AutoValue_Pro_Final.pdf`: The compiled, readable technical report.
-* **Dataset Link:** [Insert Link to your Craigslist Data here]
+* **Used Cars Dataset (Kaggle):** https://www.kaggle.com/api/v1/datasets/download/austinreese/craigslist-carstrucks-data
 
 ## Technical Architecture
 * **Languages:** Python 3, PySpark, SQL
