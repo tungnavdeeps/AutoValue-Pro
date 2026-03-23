@@ -18,7 +18,7 @@ AutoValue Pro is a Prescriptive Analytics and Decision Support System (DSS) desi
 * **Phase 10 (The DSS Dashboard):** A live Gradio UI integrating a real-time `requests.get` pipeline to the US Government NHTSA Complaints API. Includes a monotonic financial governor to prevent tree-based extrapolation hallucinations.
 
 ## Repository Contents
-* `AutoValue_Pro_Final.ipynb`: The master PySpark/Python codebase.
+* `CIND820_Project_AutoValue_Pro_Code.ipynb`: The master PySpark/Python codebase.
 * `AutoValue_Pro_Final.pdf`: The compiled, readable technical report.
 * **Used Cars Dataset (Kaggle):** https://www.kaggle.com/api/v1/datasets/download/austinreese/craigslist-carstrucks-data
 
